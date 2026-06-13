@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#071a1d" />
+  <title>PR-Explorer Madeira V4.0</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQJM8kNn1ZngQk2sQFfM6WX8BMYqEgc=" crossorigin="" />
+  <link rel="stylesheet" href="src/styles.css" />
+</head>
+<body>
+  <div id="app" class="app-shell">
+    <div id="map" class="map-layer" aria-label="Madeira Karte"></div>
+    <header class="topbar" id="topbar"></header>
+    <main id="viewHost" class="view-host"></main>
+    <aside id="detailHost" class="detail-host" hidden></aside>
+    <aside id="panelHost" class="panel-host" hidden></aside>
+    <nav id="bottomNav" class="bottom-nav" aria-label="Hauptnavigation"></nav>
+    <div id="toast" class="toast" hidden></div>
+  </div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="src/app.js"></script>
+</body>
+</html>

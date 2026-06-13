@@ -1,0 +1,10 @@
+{
+  "name": "PR-Explorer Madeira",
+  "short_name": "PRX Madeira",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071a1d",
+  "theme_color": "#071a1d",
+  "orientation": "portrait",
+  "icons": []
+}

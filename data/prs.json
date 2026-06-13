@@ -1,0 +1,1713 @@
+{
+  "meta": {
+    "version": "V4.0 Baseline",
+    "generatedAt": "2026-06-13T12:30:29.112175Z",
+    "home": {
+      "name": "Pestana Promenade Premium, Funchal",
+      "lat": 32.6377707,
+      "lon": -16.9363596,
+      "role": "homezone-default"
+    },
+    "counts": {
+      "prs": 40,
+      "gpxMatched": 37,
+      "kmlMatched": 36,
+      "tracksExtracted": 37,
+      "routesExtracted": 36
+    },
+    "sourceFiles": [
+      "PR – V1.xlsx",
+      "Gpx.zip",
+      "KML.zip"
+    ],
+    "principles": [
+      "no-v3-patchchain",
+      "single-css",
+      "single-app-js",
+      "component-factory",
+      "no-service-worker-v4"
+    ]
+  },
+  "prs": [
+    {
+      "id": "PR_1",
+      "sourceNumber": "PR_1",
+      "slug": "pr-1",
+      "name": "Vereda do Areeiro",
+      "region": "Süd (zentral)",
+      "status": "prüfen",
+      "lat": 32.735491,
+      "lon": -16.928797,
+      "links": {
+        "startLabel": "Start PR1",
+        "routeLabel": "Anfahrt PR_1",
+        "visitMadeira": "PR1",
+        "stravaAvailable": true,
+        "komootAvailable": true
+      },
+      "drive": {
+        "km": 22.8,
+        "min": 40.0
+      },
+      "parking": {
+        "info": "4,00 €/Stunde",
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 6.1,
+        "duration": "3,30 h",
+        "level": "mittel",
+        "elevHigh": 1857.0,
+        "elevLow": 1491.0,
+        "elevGain": 366.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-1.json",
+      "routeFile": "data/routes/pr-1.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.735491,-16.928797&travelmode=driving"
+    },
+    {
+      "id": "PR_1.1",
+      "sourceNumber": "PR_1.1",
+      "slug": "pr-1-1",
+      "name": "Vereda da Ilha",
+      "region": "Nord",
+      "status": "prüfen",
+      "lat": 32.805899,
+      "lon": -16.91139,
+      "links": {
+        "startLabel": "Start  PR1.1",
+        "routeLabel": "Anfahrt PR_1.1",
+        "visitMadeira": "PR1.1",
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 50.9,
+        "min": 54.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 8.2,
+        "duration": "3:00 h",
+        "level": "mittel",
+        "elevHigh": 1764.0,
+        "elevLow": 490.0,
+        "elevGain": 1274.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-1-1.json",
+      "routeFile": "data/routes/pr-1-1.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.805899,-16.91139&travelmode=driving"
+    },
+    {
+      "id": "PR_1.2",
+      "sourceNumber": "PR 1.2",
+      "slug": "pr-1-2",
+      "name": "Vereda do Pico Ruivo",
+      "region": "Nordost",
+      "status": "prüfen",
+      "lat": 32.764814,
+      "lon": -16.92108,
+      "links": {
+        "startLabel": "Start  PR1.2",
+        "routeLabel": "Anfahrt PR_1.2",
+        "visitMadeira": "PR1.2",
+        "stravaAvailable": true,
+        "komootAvailable": true
+      },
+      "drive": {
+        "km": 54.9,
+        "min": 61.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 2.8,
+        "duration": "1:30 h",
+        "level": "mittel",
+        "elevHigh": 1857.0,
+        "elevLow": 1852.0,
+        "elevGain": 5.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-1-2.json",
+      "routeFile": "data/routes/pr-1-2.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.764814,-16.92108&travelmode=driving"
+    },
+    {
+      "id": "PR_1.3",
+      "sourceNumber": "PR 1.3",
+      "slug": "pr-1-3",
+      "name": "Vereda da Encumeada",
+      "region": "Nord (zentral)",
+      "status": "prüfen",
+      "lat": 32.760215,
+      "lon": -16.943376,
+      "links": {
+        "startLabel": "Start  PR1.3",
+        "routeLabel": "Anfahrt PR 1.3",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 54.0,
+        "min": 60.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 11.2,
+        "duration": "05:00:00",
+        "level": "mittel",
+        "elevHigh": 1764.0,
+        "elevLow": 1009.0,
+        "elevGain": 755.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-1-3.json",
+      "routeFile": "data/routes/pr-1-3.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.760215,-16.943376&travelmode=driving"
+    },
+    {
+      "id": "PR_2",
+      "sourceNumber": "PR 2",
+      "slug": "pr-2",
+      "name": "Vereda do Urzal",
+      "region": "Süd (zentral)",
+      "status": "prüfen",
+      "lat": 32.742544,
+      "lon": -16.966133,
+      "links": {
+        "startLabel": "Start  PR2",
+        "routeLabel": "Anfahrt PR_2",
+        "visitMadeira": "PR2",
+        "stravaAvailable": true,
+        "komootAvailable": true
+      },
+      "drive": {
+        "km": 18.3,
+        "min": 32.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 10.6,
+        "duration": "4:30 h",
+        "level": "mittel",
+        "elevHigh": 1450.0,
+        "elevLow": 519.0,
+        "elevGain": 931.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-2.json",
+      "routeFile": "data/routes/pr-2.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.742544,-16.966133&travelmode=driving"
+    },
+    {
+      "id": "PR_3",
+      "sourceNumber": "PR 3",
+      "slug": "pr-3",
+      "name": "Vereda do Burro",
+      "region": "Süd (zentral)",
+      "status": "prüfen",
+      "lat": 32.734933,
+      "lon": -16.928818,
+      "links": {
+        "startLabel": "Start  PR3",
+        "routeLabel": "Anfahrt PR_3",
+        "visitMadeira": null,
+        "stravaAvailable": true,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 25.8,
+        "min": 41.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "-"
+      },
+      "trail": {
+        "distanceKm": 7.2,
+        "duration": "02:40:00",
+        "level": "leicht",
+        "elevHigh": null,
+        "elevLow": null,
+        "elevGain": null
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-3.json",
+      "routeFile": "data/routes/pr-3.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.734933,-16.928818&travelmode=driving"
+    },
+    {
+      "id": "PR_3.1",
+      "sourceNumber": "PR 3.1",
+      "slug": "pr-3-1",
+      "name": "Caminho Real do Monte",
+      "region": "Süd",
+      "status": "prüfen",
+      "lat": 32.676691,
+      "lon": -16.903321,
+      "links": {
+        "startLabel": "Start  PR3.1",
+        "routeLabel": "Anfahrt PR3.1",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 6.5,
+        "min": 16.0
+      },
+      "parking": {
+        "info": null,
+        "fee": null
+      },
+      "trail": {
+        "distanceKm": 4.2,
+        "duration": "02:00:00",
+        "level": "mittel",
+        "elevHigh": 1130.0,
+        "elevLow": 550.0,
+        "elevGain": 580.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-3-1.json",
+      "routeFile": "data/routes/pr-3-1.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.676691,-16.903321&travelmode=driving"
+    },
+    {
+      "id": "PR_4",
+      "sourceNumber": "PR 4",
+      "slug": "pr-4",
+      "name": "Levada do Barreiro",
+      "region": "Süd (zentral)",
+      "status": "prüfen",
+      "lat": 32.726012,
+      "lon": -16.924866,
+      "links": {
+        "startLabel": "Start  PR4",
+        "routeLabel": "Anfahrt PR 4",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 21.0,
+        "min": 38.0
+      },
+      "parking": {
+        "info": null,
+        "fee": null
+      },
+      "trail": {
+        "distanceKm": 5.2,
+        "duration": "02:10:00",
+        "level": "leicht",
+        "elevHigh": 1650.0,
+        "elevLow": 975.0,
+        "elevGain": 675.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-4.json",
+      "routeFile": "data/routes/pr-4.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.726012,-16.924866&travelmode=driving"
+    },
+    {
+      "id": "PR_5",
+      "sourceNumber": "PR 5",
+      "slug": "pr-5",
+      "name": "Vededa das Funduras",
+      "region": "Nordost",
+      "status": "prüfen",
+      "lat": 32.747471,
+      "lon": -16.825449,
+      "links": {
+        "startLabel": "Start  PR5",
+        "routeLabel": "Anfahrt PR 5",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 34.5,
+        "min": 36.0
+      },
+      "parking": {
+        "info": null,
+        "fee": null
+      },
+      "trail": {
+        "distanceKm": 8.7,
+        "duration": "03:00:00",
+        "level": "mittel",
+        "elevHigh": 624.0,
+        "elevLow": 186.0,
+        "elevGain": 438.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-5.json",
+      "routeFile": "data/routes/pr-5.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.747471,-16.825449&travelmode=driving"
+    },
+    {
+      "id": "PR_6",
+      "sourceNumber": "PR 6",
+      "slug": "pr-6",
+      "name": "Levada das 25 Fontes",
+      "region": "Südwest",
+      "status": "prüfen",
+      "lat": 32.755044,
+      "lon": -17.133991,
+      "links": {
+        "startLabel": "Start  PR6",
+        "routeLabel": "Anfahrt PR_6",
+        "visitMadeira": "PR6",
+        "stravaAvailable": true,
+        "komootAvailable": true
+      },
+      "drive": {
+        "km": 38.9,
+        "min": 50.0
+      },
+      "parking": {
+        "info": null,
+        "fee": null
+      },
+      "trail": {
+        "distanceKm": 4.3,
+        "duration": "03:00:00",
+        "level": "mittel",
+        "elevHigh": 1288.0,
+        "elevLow": 964.0,
+        "elevGain": 324.0
+      },
+      "hint": "3 km Hin- und Rückweg",
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-6.json",
+      "routeFile": "data/routes/pr-6.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.755044,-17.133991&travelmode=driving"
+    },
+    {
+      "id": "PR_6.1",
+      "sourceNumber": "PR 6.1",
+      "slug": "pr-6-1",
+      "name": "Levada do Risco",
+      "region": "Südwest",
+      "status": "prüfen",
+      "lat": 32.7550461,
+      "lon": -17.1339926,
+      "links": {
+        "startLabel": "Start  PR6.1",
+        "routeLabel": "Anfahrt PR 6.1",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 38.9,
+        "min": 50.0
+      },
+      "parking": {
+        "info": null,
+        "fee": null
+      },
+      "trail": {
+        "distanceKm": 1.5,
+        "duration": "02:00:00",
+        "level": "leicht",
+        "elevHigh": 1288.0,
+        "elevLow": 1000.0,
+        "elevGain": 288.0
+      },
+      "hint": "3 km Hin- und Rückweg",
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-6-1.json",
+      "routeFile": "data/routes/pr-6-1.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.7550461,-17.1339926&travelmode=driving"
+    },
+    {
+      "id": "PR_6.2",
+      "sourceNumber": "PR 6.2",
+      "slug": "pr-6-2",
+      "name": "Levada do Alecrim",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.753573,
+      "lon": -17.132659,
+      "links": {
+        "startLabel": "Start  PR6.2",
+        "routeLabel": "Anfahrt PR 6.2",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 38.8,
+        "min": 53.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 3.5,
+        "duration": "02:30:00",
+        "level": "leicht",
+        "elevHigh": 1339.0,
+        "elevLow": 1256.0,
+        "elevGain": 83.0
+      },
+      "hint": "7 km Hin- und Rückweg",
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-6-2.json",
+      "routeFile": "data/routes/pr-6-2.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.753573,-17.132659&travelmode=driving"
+    },
+    {
+      "id": "PR_6.3",
+      "sourceNumber": "PR 6.3",
+      "slug": "pr-6-3",
+      "name": "Vereda da Lagoa do Vento",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.759936,
+      "lon": -17.121887,
+      "links": {
+        "startLabel": "Start  PR6.3",
+        "routeLabel": "Anfahrt PR 6.3",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 38.1,
+        "min": 50.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 1.8,
+        "duration": "01:30:00",
+        "level": "leicht",
+        "elevHigh": 1600.0,
+        "elevLow": 200.0,
+        "elevGain": 1400.0
+      },
+      "hint": "3,6 km Hin- und Rückweg",
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-6-3.json",
+      "routeFile": "data/routes/pr-6-3.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.759936,-17.121887&travelmode=driving"
+    },
+    {
+      "id": "PR_6.4",
+      "sourceNumber": "PR 6.4",
+      "slug": "pr-6-4",
+      "name": "Levada Velha do Rabacal",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.769039,
+      "lon": -17.153574,
+      "links": {
+        "startLabel": "Start  PR6.4",
+        "routeLabel": "Anfahrt PR 6.4",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 40.7,
+        "min": 54.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 5.0,
+        "duration": "02:00:00",
+        "level": null,
+        "elevHigh": 1055.0,
+        "elevLow": 988.0,
+        "elevGain": 67.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-6-4.json",
+      "routeFile": "data/routes/pr-6-4.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.769039,-17.153574&travelmode=driving"
+    },
+    {
+      "id": "PR_6.5",
+      "sourceNumber": "PR 6.5",
+      "slug": "pr-6-5",
+      "name": "Vereda do Pico Fernandes",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.762628,
+      "lon": -17.09944,
+      "links": {
+        "startLabel": "Start  PR6.5",
+        "routeLabel": "Anfahrt PR 6.5",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 41.1,
+        "min": 53.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 3.8,
+        "duration": "01:30:00",
+        "level": null,
+        "elevHigh": 1422.0,
+        "elevLow": 990.0,
+        "elevGain": 432.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-6-5.json",
+      "routeFile": "data/routes/pr-6-5.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.762628,-17.09944&travelmode=driving"
+    },
+    {
+      "id": "PR_6.6",
+      "sourceNumber": "PR 6.6",
+      "slug": "pr-6-6",
+      "name": "Vereda do Tunel do Cavalo",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.755616,
+      "lon": -17.142597,
+      "links": {
+        "startLabel": "Start  PR6.6",
+        "routeLabel": "Anfahrt PR 6.6",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 38.2,
+        "min": 49.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 2.3,
+        "duration": "00:45:00",
+        "level": null,
+        "elevHigh": 1055.0,
+        "elevLow": 988.0,
+        "elevGain": 67.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-6-6.json",
+      "routeFile": "data/routes/pr-6-6.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.755616,-17.142597&travelmode=driving"
+    },
+    {
+      "id": "PR_6.8",
+      "sourceNumber": "PR 6.8",
+      "slug": "pr-6-8",
+      "name": "Levada do Paul II - Um caminho para todos",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.748334,
+      "lon": -17.125443,
+      "links": {
+        "startLabel": "Start  PR6.8",
+        "routeLabel": "Anfahrt PR 6.6",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 38.2,
+        "min": 49.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 1.2,
+        "duration": "00:30:00",
+        "level": "k.A.",
+        "elevHigh": 1280.0,
+        "elevLow": 1279.0,
+        "elevGain": 1.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-6-8.json",
+      "routeFile": "data/routes/pr-6-8.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.748334,-17.125443&travelmode=driving"
+    },
+    {
+      "id": "PR_7",
+      "sourceNumber": "PR 7",
+      "slug": "pr-7",
+      "name": "Levada do Moinho",
+      "region": "Nordwest",
+      "status": "prüfen",
+      "lat": 32.845746,
+      "lon": -17.193717,
+      "links": {
+        "startLabel": "Start  PR7",
+        "routeLabel": "Anfahrt PR 7",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 53.9,
+        "min": 62.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 10.5,
+        "duration": "03:30:00",
+        "level": "mittel",
+        "elevHigh": 940.0,
+        "elevLow": 504.0,
+        "elevGain": 436.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-7.json",
+      "routeFile": "data/routes/pr-7.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.845746,-17.193717&travelmode=driving"
+    },
+    {
+      "id": "PR_8",
+      "sourceNumber": "PR 8",
+      "slug": "pr-8",
+      "name": "Vereda da Ponta de Sao Lourenco",
+      "region": "Nordost",
+      "status": "prüfen",
+      "lat": 32.743376,
+      "lon": -16.70094,
+      "links": {
+        "startLabel": "Start  PR8",
+        "routeLabel": "Anfahrt PR_8",
+        "visitMadeira": "PR8",
+        "stravaAvailable": true,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 37.7,
+        "min": 36.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "02:30:00",
+        "level": "mittel",
+        "elevHigh": 126.0,
+        "elevLow": 23.0,
+        "elevGain": 103.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-8.json",
+      "routeFile": "data/routes/pr-8.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.743376,-16.70094&travelmode=driving"
+    },
+    {
+      "id": "PR_9",
+      "sourceNumber": "PR 9",
+      "slug": "pr-9",
+      "name": "Levada do Caldeirao Verde",
+      "region": "Nord",
+      "status": "prüfen",
+      "lat": 32.783557,
+      "lon": -16.907019,
+      "links": {
+        "startLabel": "Start  PR9",
+        "routeLabel": "Anfahrt PR 9",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 48.5,
+        "min": 51.0
+      },
+      "parking": {
+        "info": "2,00 €/Stunde",
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 8.7,
+        "duration": "06:30:00",
+        "level": "mittel",
+        "elevHigh": 1020.0,
+        "elevLow": 872.0,
+        "elevGain": 148.0
+      },
+      "hint": "17,4 km Hin- und Rückweg",
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": false
+      },
+      "trackFile": "data/tracks/pr-9.json",
+      "routeFile": null,
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.783557,-16.907019&travelmode=driving"
+    },
+    {
+      "id": "PR_9.1",
+      "sourceNumber": "PR 9.1",
+      "slug": "pr-9-1",
+      "name": "Levada do Caldeirao Verde - um caminho",
+      "region": "Nord",
+      "status": "prüfen",
+      "lat": 32.73554,
+      "lon": -16.886378,
+      "links": {
+        "startLabel": "Start  PR9.1",
+        "routeLabel": "Anfahrt PR 9.1",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 49.5,
+        "min": 52.0
+      },
+      "parking": {
+        "info": "2,00 €/Stunde",
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "45 min",
+        "level": "k.A.",
+        "elevHigh": 890.0,
+        "elevLow": 870.0,
+        "elevGain": 20.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-9-1.json",
+      "routeFile": "data/routes/pr-9-1.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.73554,-16.886378&travelmode=driving"
+    },
+    {
+      "id": "PR_10",
+      "sourceNumber": "PR 10",
+      "slug": "pr-10",
+      "name": "Levada do Furado",
+      "region": "Süd (zentral)",
+      "status": "prüfen",
+      "lat": 32.734915,
+      "lon": -16.886138,
+      "links": {
+        "startLabel": "Start  PR10",
+        "routeLabel": "Anfahrt PR 10",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 20.4,
+        "min": 37.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 11.0,
+        "duration": "05:00:00",
+        "level": "mittel",
+        "elevHigh": 880.0,
+        "elevLow": 645.0,
+        "elevGain": 235.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-10.json",
+      "routeFile": "data/routes/pr-10.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.734915,-16.886138&travelmode=driving"
+    },
+    {
+      "id": "PR_11",
+      "sourceNumber": "PR 11",
+      "slug": "pr-11",
+      "name": "Vereda dos Balcoes",
+      "region": "Süd (zentral)",
+      "status": "prüfen",
+      "lat": 32.7355398,
+      "lon": -16.8863779,
+      "links": {
+        "startLabel": "Start  PR11",
+        "routeLabel": "Anfahrt PR_11",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 20.5,
+        "min": 39.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "01:30:00",
+        "level": "leicht",
+        "elevHigh": 880.0,
+        "elevLow": 870.0,
+        "elevGain": 10.0
+      },
+      "hint": "3 km Hin- und Rückweg",
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-11.json",
+      "routeFile": "data/routes/pr-11.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.7355398,-16.8863779&travelmode=driving"
+    },
+    {
+      "id": "PR_12",
+      "sourceNumber": "PR 12",
+      "slug": "pr-12",
+      "name": "Caminho Real da Encumeada",
+      "region": "Süd",
+      "status": "prüfen",
+      "lat": 32.711065,
+      "lon": -16.987193,
+      "links": {
+        "startLabel": "Start  PR12",
+        "routeLabel": "Anfahrt PR 12",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 13.3,
+        "min": 22.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 12.5,
+        "duration": "05:00:00",
+        "level": "mittel",
+        "elevHigh": 1323.0,
+        "elevLow": 830.0,
+        "elevGain": 493.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-12.json",
+      "routeFile": "data/routes/pr-12.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.711065,-16.987193&travelmode=driving"
+    },
+    {
+      "id": "PR_13",
+      "sourceNumber": "PR 13",
+      "slug": "pr-13",
+      "name": "Vareda do Fanal",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.767111,
+      "lon": -17.107714,
+      "links": {
+        "startLabel": "Start  PR13",
+        "routeLabel": "Anfahrt PR 13",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 42.1,
+        "min": 54.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "04:00:00",
+        "level": "mittel",
+        "elevHigh": 1420.0,
+        "elevLow": 1130.0,
+        "elevGain": 290.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-13.json",
+      "routeFile": "data/routes/pr-13.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.767111,-17.107714&travelmode=driving"
+    },
+    {
+      "id": "PR_13.1",
+      "sourceNumber": "PR 13.1",
+      "slug": "pr-13-1",
+      "name": "Vareda da Palha Carga",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.772718,
+      "lon": -17.122694,
+      "links": {
+        "startLabel": "Start  PR13.1",
+        "routeLabel": "Anfahrt PR 13.1",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 43.7,
+        "min": 56.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "45 min",
+        "level": "k.A.",
+        "elevHigh": 1328.0,
+        "elevLow": 970.0,
+        "elevGain": 358.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-13-1.json",
+      "routeFile": "data/routes/pr-13-1.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.772718,-17.122694&travelmode=driving"
+    },
+    {
+      "id": "PR_14",
+      "sourceNumber": "PR 14",
+      "slug": "pr-14",
+      "name": "Levada dos Cedros",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.806103,
+      "lon": -17.140848,
+      "links": {
+        "startLabel": "Start  PR14",
+        "routeLabel": "Anfahrt PR 14",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 48.8,
+        "min": 63.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "03:00:00",
+        "level": "mittel",
+        "elevHigh": 1090.0,
+        "elevLow": 840.0,
+        "elevGain": 250.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-14.json",
+      "routeFile": "data/routes/pr-14.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.806103,-17.140848&travelmode=driving"
+    },
+    {
+      "id": "PR_15",
+      "sourceNumber": "PR 15",
+      "slug": "pr-15",
+      "name": "Vededa da Ribeira da Janela",
+      "region": "Nordwest",
+      "status": "prüfen",
+      "lat": 32.844092,
+      "lon": -17.155057,
+      "links": {
+        "startLabel": "Start  PR15",
+        "routeLabel": "Anfaht PR 15",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 49.1,
+        "min": 56.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "01:30:00",
+        "level": "mittel",
+        "elevHigh": 820.0,
+        "elevLow": 400.0,
+        "elevGain": 420.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-15.json",
+      "routeFile": "data/routes/pr-15.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.844092,-17.155057&travelmode=driving"
+    },
+    {
+      "id": "PR_16",
+      "sourceNumber": "PR 16",
+      "slug": "pr-16",
+      "name": "Levada Faja do Rodrigues",
+      "region": "Nord (zentral)",
+      "status": "prüfen",
+      "lat": 32.779257,
+      "lon": -17.04958,
+      "links": {
+        "startLabel": "Start  PR16",
+        "routeLabel": "Anfahrt PR 16",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 31.8,
+        "min": 37.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 3.9,
+        "duration": "03:30:00",
+        "level": "mittel",
+        "elevHigh": 630.0,
+        "elevLow": 600.0,
+        "elevGain": 30.0
+      },
+      "hint": "7,8 km Hin- und Rückweg",
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-16.json",
+      "routeFile": "data/routes/pr-16.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.779257,-17.04958&travelmode=driving"
+    },
+    {
+      "id": "PR_17",
+      "sourceNumber": "PR17",
+      "slug": "pr-17",
+      "name": "Caminho do Pinaculo e Folhadal",
+      "region": "Nord (zentral)",
+      "status": "prüfen",
+      "lat": 32.754225,
+      "lon": -17.019293,
+      "links": {
+        "startLabel": "Start  PR17",
+        "routeLabel": "Anfahrt PR_17",
+        "visitMadeira": "PR17",
+        "stravaAvailable": true,
+        "komootAvailable": true
+      },
+      "drive": {
+        "km": 25.9,
+        "min": 33.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "06:30:00",
+        "level": "schwer",
+        "elevHigh": 1490.0,
+        "elevLow": 970.0,
+        "elevGain": 520.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-17.json",
+      "routeFile": "data/routes/pr-17.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.754225,-17.019293&travelmode=driving"
+    },
+    {
+      "id": "PR_18",
+      "sourceNumber": "PR18",
+      "slug": "pr-18",
+      "name": "Levada do Rei",
+      "region": "Nord",
+      "status": "prüfen",
+      "lat": 32.816548,
+      "lon": -16.924595,
+      "links": {
+        "startLabel": "Start  PR18",
+        "routeLabel": "Anfahrt PR 18",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 52.3,
+        "min": 55.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "03:30:00",
+        "level": "mittel",
+        "elevHigh": 573.0,
+        "elevLow": 535.0,
+        "elevGain": 38.0
+      },
+      "hint": "10,6 km Hin- und Rückweg",
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-18.json",
+      "routeFile": "data/routes/pr-18.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.816548,-16.924595&travelmode=driving"
+    },
+    {
+      "id": "PR_19",
+      "sourceNumber": "PR19",
+      "slug": "pr-19",
+      "name": "Caminho Real do Paul do Mar",
+      "region": "Südwest",
+      "status": "prüfen",
+      "lat": 32.752487,
+      "lon": -17.217052,
+      "links": {
+        "startLabel": "Start  PR19",
+        "routeLabel": "Anfahrt PR 19",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 37.2,
+        "min": 42.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "01:20:00",
+        "level": "mittel",
+        "elevHigh": 550.0,
+        "elevLow": 16.0,
+        "elevGain": 534.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-19.json",
+      "routeFile": "data/routes/pr-19.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.752487,-17.217052&travelmode=driving"
+    },
+    {
+      "id": "PR_20",
+      "sourceNumber": "PR20",
+      "slug": "pr-20",
+      "name": "Vereda do Jardim do Mar",
+      "region": "Südwest",
+      "status": "prüfen",
+      "lat": 32.748332,
+      "lon": -17.21016,
+      "links": {
+        "startLabel": "Start  PR20",
+        "routeLabel": "Anfahrt PR 20",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 37.5,
+        "min": 42.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 1.9,
+        "duration": "01:30:00",
+        "level": "leicht",
+        "elevHigh": 530.0,
+        "elevLow": 35.0,
+        "elevGain": 495.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-20.json",
+      "routeFile": "data/routes/pr-20.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.748332,-17.21016&travelmode=driving"
+    },
+    {
+      "id": "PR_21",
+      "sourceNumber": "PR21",
+      "slug": "pr-21",
+      "name": "Caminho do Norte",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.754524,
+      "lon": -17.018887,
+      "links": {
+        "startLabel": "Start  PR21",
+        "routeLabel": "Anfahrt PR 21",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 26.0,
+        "min": 33.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "01:30:00",
+        "level": "mittel",
+        "elevHigh": 1000.0,
+        "elevLow": 320.0,
+        "elevGain": 680.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-21.json",
+      "routeFile": "data/routes/pr-21.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.754524,-17.018887&travelmode=driving"
+    },
+    {
+      "id": "PR_22",
+      "sourceNumber": "PR22",
+      "slug": "pr-22",
+      "name": "Vereda do Chao dos Louros",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.76019,
+      "lon": -17.018242,
+      "links": {
+        "startLabel": "Start  PR22",
+        "routeLabel": "Anfahrt PR 22",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 27.4,
+        "min": 36.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": "00:45:00",
+        "level": "leicht",
+        "elevHigh": 890.0,
+        "elevLow": 830.0,
+        "elevGain": 60.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-22.json",
+      "routeFile": "data/routes/pr-22.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.76019,-17.018242&travelmode=driving"
+    },
+    {
+      "id": "PR_27",
+      "sourceNumber": "PR27",
+      "slug": "pr-27",
+      "name": "Glaciar de Planalto",
+      "region": "Südwest (zentral)",
+      "status": "prüfen",
+      "lat": 32.757621,
+      "lon": -17.059546,
+      "links": {
+        "startLabel": "Start PR27",
+        "routeLabel": "Anfahrt PR 27",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 44.5,
+        "min": 56.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 4.6,
+        "duration": "01:30:00",
+        "level": "k.A.",
+        "elevHigh": 1588.0,
+        "elevLow": 1457.0,
+        "elevGain": 131.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-27.json",
+      "routeFile": "data/routes/pr-27.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.757621,-17.059546&travelmode=driving"
+    },
+    {
+      "id": "PR_28",
+      "sourceNumber": "PR28",
+      "slug": "pr-28",
+      "name": "Levada da Rocha Vermelha",
+      "region": "Südwest",
+      "status": "prüfen",
+      "lat": 32.742804,
+      "lon": -17.150514,
+      "links": {
+        "startLabel": "Start  PR28",
+        "routeLabel": "Anfahrt PR 28",
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": 35.5,
+        "min": 45.0
+      },
+      "parking": {
+        "info": null,
+        "fee": "4.5"
+      },
+      "trail": {
+        "distanceKm": 10.8,
+        "duration": "04:00:00",
+        "level": "k.A.",
+        "elevHigh": 1297.0,
+        "elevLow": 837.0,
+        "elevGain": 460.0
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": true,
+        "kml": true
+      },
+      "trackFile": "data/tracks/pr-28.json",
+      "routeFile": "data/routes/pr-28.json",
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=32.742804,-17.150514&travelmode=driving"
+    },
+    {
+      "id": "PS_PR_1",
+      "sourceNumber": "PS PR 1",
+      "slug": "ps-pr-1",
+      "name": "Vereda do Pico Branco e Terra Cha",
+      "region": "Nicht angegeben",
+      "status": "prüfen",
+      "lat": 33.096706,
+      "lon": -16.314598,
+      "links": {
+        "startLabel": "Start  PS PR1",
+        "routeLabel": null,
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": null,
+        "min": null
+      },
+      "parking": {
+        "info": null,
+        "fee": null
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": null,
+        "level": null,
+        "elevHigh": null,
+        "elevLow": null,
+        "elevGain": null
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": false,
+        "kml": false
+      },
+      "trackFile": null,
+      "routeFile": null,
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=33.096706,-16.314598&travelmode=driving"
+    },
+    {
+      "id": "PS_PR_2",
+      "sourceNumber": "PS PR 2",
+      "slug": "ps-pr-2",
+      "name": "Vereda do Pico do Castelo",
+      "region": "Nicht angegeben",
+      "status": "prüfen",
+      "lat": 33.090709,
+      "lon": -16.3274,
+      "links": {
+        "startLabel": "Start  PS PR2",
+        "routeLabel": null,
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": null,
+        "min": null
+      },
+      "parking": {
+        "info": null,
+        "fee": null
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": null,
+        "level": null,
+        "elevHigh": null,
+        "elevLow": null,
+        "elevGain": null
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": false,
+        "kml": false
+      },
+      "trackFile": null,
+      "routeFile": null,
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=33.090709,-16.3274&travelmode=driving"
+    },
+    {
+      "id": "PS_PR_3",
+      "sourceNumber": "PS PR 3",
+      "slug": "ps-pr-3",
+      "name": "Levada do Pico do Castelo",
+      "region": "Nicht angegeben",
+      "status": "prüfen",
+      "lat": 33.08382,
+      "lon": -16.340841,
+      "links": {
+        "startLabel": "Start  PS PR3",
+        "routeLabel": null,
+        "visitMadeira": null,
+        "stravaAvailable": false,
+        "komootAvailable": false
+      },
+      "drive": {
+        "km": null,
+        "min": null
+      },
+      "parking": {
+        "info": null,
+        "fee": null
+      },
+      "trail": {
+        "distanceKm": null,
+        "duration": null,
+        "level": null,
+        "elevHigh": null,
+        "elevLow": null,
+        "elevGain": null
+      },
+      "hint": null,
+      "dataStatus": {
+        "excel": true,
+        "gpx": false,
+        "kml": false
+      },
+      "trackFile": null,
+      "routeFile": null,
+      "googleMapsFromHome": "https://www.google.com/maps/dir/?api=1&origin=32.6377707,-16.9363596&destination=33.08382,-16.340841&travelmode=driving"
+    }
+  ]
+}
