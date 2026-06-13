@@ -1,0 +1,10 @@
+{
+  "name": "PRX Map Only Madeira",
+  "short_name": "PRX Map",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071413",
+  "theme_color": "#071413",
+  "orientation": "portrait",
+  "icons": []
+}

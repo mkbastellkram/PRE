@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#071413" />
+  <title>PRX Map Only · Madeira</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQn1eQMTK8tVcRVdqYF4pR+f8nYw7S4=" crossorigin="" />
+  <link rel="stylesheet" href="src/styles.css" />
+</head>
+<body>
+  <main id="app" class="app-shell">
+    <section id="map" class="map" aria-label="Madeira Karte"></section>
+
+    <header class="topbar" aria-label="Kartensteuerung">
+      <div class="brand">
+        <strong>Madeira</strong>
+        <span>Map Only</span>
+      </div>
+      <button id="fitMadeira" class="icon-button" type="button" aria-label="Madeira zentrieren">⌖</button>
+    </header>
+
+    <nav class="layer-pill" aria-label="Basiskarten umschalten">
+      <button class="layer-button is-active" type="button" data-layer="osm">OSM</button>
+      <button class="layer-button" type="button" data-layer="topo">Topo</button>
+      <button class="layer-button" type="button" data-layer="sat">Satellit</button>
+      <button class="layer-button" type="button" data-layer="hybrid">Hybrid</button>
+    </nav>
+
+    <aside id="status" class="status-panel" aria-live="polite">Karte lädt …</aside>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="src/app.js"></script>
+</body>
+</html>
